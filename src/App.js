@@ -5,8 +5,8 @@ import SlikSlider from './component/about/slikSlider';
 import ProductList from './component/products/prodectlist';
 import {BrowserRouter, Link} from 'react-router-dom'
 import {Routes,Route} from 'react-router-dom'
-import About from './component/about/About';
-import Home from './component/home/Home';
+import About from './Views/About';
+import Home from './Views/Home';
 import ProductDetails from './component/products/productDetails';
 
 

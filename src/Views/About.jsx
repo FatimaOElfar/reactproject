@@ -1,5 +1,5 @@
-import Navbar from "../home/navbar";
-import SlikSlider from "./slikSlider";
+import Navbar from "../component/home/navbar";
+import SlikSlider from "../component/about/slikSlider";
 
 function About(){
     return(

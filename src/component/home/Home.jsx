@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './navbar'
-import ProductList from './prodectlist'
-import SlikSlider from './slikSlider'
+import ProductList from '../products/prodectlist'
+import SlikSlider from '../about/slikSlider'
 
 export default function Home() {
   return (

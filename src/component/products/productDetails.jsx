@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
-import Navbar from './navbar';
+import Navbar from '../home/navbar';
 import Product from './product';
 
 export default function ProductDetails() {

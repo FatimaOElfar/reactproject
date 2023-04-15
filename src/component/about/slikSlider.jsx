@@ -1,7 +1,7 @@
 import React from "react";
 import image from "./imag.jpg";
 
-import "../component/slid.css";
+import "./slid.css";
 
 export default function SlikSlider() {
   return (
@@ -18,6 +18,7 @@ export default function SlikSlider() {
       </div>
      </div> */}
      <div className="content">
+      
      <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur
         alias commodi porro cupiditate asperiores labore eum, soluta et quasi

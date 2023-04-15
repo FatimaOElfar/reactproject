@@ -1,13 +1,13 @@
 import logo from './logo.svg';
-import './component/navbar.css';
-import Navbar from './component/navbar';
-import SlikSlider from './component/slikSlider';
-import ProductList from './component/prodectlist';
+import './component/home/navbar.css';
+import Navbar from './component/home/navbar';
+import SlikSlider from './component/about/slikSlider';
+import ProductList from './component/products/prodectlist';
 import {BrowserRouter, Link} from 'react-router-dom'
 import {Routes,Route} from 'react-router-dom'
-import About from './component/About';
-import Home from './component/Home';
-import ProductDetails from './component/productDetails';
+import About from './component/about/About';
+import Home from './component/home/Home';
+import ProductDetails from './component/products/productDetails';
 
 
 

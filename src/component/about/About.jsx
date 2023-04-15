@@ -1,4 +1,4 @@
-import Navbar from "./navbar";
+import Navbar from "../home/navbar";
 import SlikSlider from "./slikSlider";
 
 function About(){
